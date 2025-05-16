@@ -1,0 +1,10 @@
+name: DistantSpawns
+version: '1.0.0'
+main: xyz.apeiros.distantspawns.DistantSpawns
+api-version: '1.21'
+
+commands:
+  distantspawns:
+    description: Manage the DistantSpawns plugin
+    usage: /distantspawns reload
+    permission: distantspawns.admin
